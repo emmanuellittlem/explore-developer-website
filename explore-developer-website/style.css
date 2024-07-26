@@ -82,5 +82,20 @@ nav .button:hover{
   }
   .content-images div img{
     width: 320px;
-  }
+  }/* SERVICES */
+.services {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  text-align: center;
+}
+
+/* SERVICES */
+.services {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  text-align: center;
 }
