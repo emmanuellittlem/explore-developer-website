@@ -16,4 +16,225 @@ let scene = new ScrollMagic.Scene({
 })
   .setTween(timeline)
   .setPin("section")
-  .addTo(controller);
+  .addTo(contr.contact-form {
+  position: relative;
+  background-color: #f9f9f9;
+  width: 100%;
+  padding: 30px 30px 20px;
+}
+
+.contact-form form {
+  width: 100%;
+}
+
+.contact-form .row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contact-form .input50,
+.contact-form .input100 {
+  width: 100%;
+  margin: 0;.contact-form {
+  position: relative;
+  background-color: #f9f9f9;
+  width: 100%;
+  padding: 30px 30px 20px;
+}
+
+.contact-form form {
+  width: 100%;
+}
+
+.contact-form .row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contact-form .input50,
+.contact-form .input100 {
+  width: 100%;
+  margin: 0;oller);
+.contact-form {
+  position: relative;
+  background-color: #f9f9f9;
+  width: 100%;
+  padding: 30px 30px 20px;
+}
+
+.contact-form form {
+  width: 100%;
+}
+
+.contact-form .row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contact-form .input50,
+.contact-form .input100 {
+  width: 100%;
+  margin: 0;.contact-form {
+  position: relative;
+  background-color: #f9f9f9;
+  width: 100%;
+  padding: 30px 30px 20px;
+}
+
+.contact-form form {
+  width: 100%;
+}
+
+.contact-form .row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contact-form .input50,
+.contact-form .input100 {
+  width: 100%;
+  margin: 0;.contact-form {
+  position: relative;
+  background-color: #f9f9f9;
+  width: 100%;
+  padding: 30px 30px 20px;
+}
+
+.contact-form form {
+  width: 100%;
+}
+
+.contact-form .row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contact-form .input50,
+.contact-form .input100 {
+  width: 100%;
+  margin: 0;.contact-form {
+  position: relative;
+  background-color: #f9f9f9;
+  width: 100%;
+  padding: 30px 30px 20px;
+}
+
+.contact-form form {
+  width: 100%;
+}
+
+.contact-form .row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contact-form .input50,
+.contact-form .input100 {
+  width: 100%;
+  margin: 0;.contact-form {
+  position: relative;
+  background-color: #f9f9f9;
+  width: 100%;
+  padding: 30px 30px 20px;
+}
+
+.contact-form form {
+  width: 100%;
+}
+
+.contact-form .row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contact-form .input50,
+.contact-form .input100 {
+  width: 100%;
+  margin: 0;.contact-form {
+  position: relative;
+  background-color: #f9f9f9;
+  width: 100%;
+  padding: 30px 30px 20px;
+}
+
+.contact-form form {
+  width: 100%;
+}
+
+.contact-form .row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contact-form .input50,
+.contact-form .input100 {
+  width: 100%;
+  margin: 0;.contact-form {
+  position: relative;
+  background-color: #f9f9f9;
+  width: 100%;
+  padding: 30px 30px 20px;
+}
+
+.contact-form form {
+  width: 100%;
+}
+
+.contact-form .row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contact-form .input50,
+.contact-form .input100 {
+  width: 100%;
+  margin: 0;.contact-form {
+  position: relative;
+  background-color: #f9f9f9;
+  width: 100%;
+  padding: 30px 30px 20px;
+}
+
+.contact-form form {
+  width: 100%;
+}
+
+.contact-form .row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contact-form .input50,
+.contact-form .input100 {
+  width: 100%;
+  margin: 0;.contact-form {
+  position: relative;
+  background-color: #f9f9f9;
+  width: 100%;
+  padding: 30px 30px 20px;
+}
+
+.contact-form form {
+  width: 100%;
+}
+
+.contact-form .row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contact-form .input50,
+.contact-form .input100 {
+  width: 100%;
+  margin: 0;
